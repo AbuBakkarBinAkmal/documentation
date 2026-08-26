@@ -1180,7 +1180,6 @@ module.exports = {
             'evaluate/features/child-workflows',
             'evaluate/features/nexus',
             'evaluate/features/workflow-message-passing',
-            'evaluate/features/debugging',
             'evaluate/features/interrupt-workflow',
             'evaluate/features/testing-suite',
             'evaluate/features/observability',

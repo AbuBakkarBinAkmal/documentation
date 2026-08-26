@@ -2350,11 +2350,6 @@
       "permanent": true
     },
     {
-      "source": "/evaluate/development-production-features/debugging",
-      "destination": "/evaluate/features/debugging",
-      "permanent": true
-    },
-    {
       "source": "/evaluate/development-production-features/interrupt-workflow",
       "destination": "/evaluate/features/interrupt-workflow",
       "permanent": true
